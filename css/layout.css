@@ -1,0 +1,50 @@
+.background{
+  background-repeat: no-repeat;
+  background-image: url("/images/ar3.png");
+  background-size: cover;
+  height: 500px;
+}
+.navbar{
+  margin: 0px;
+}
+
+.heading{
+  padding-top: 0px;
+  color: white;
+}
+
+.main-content{
+  padding-left: 30px;
+}
+p, ol{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+}
+
+.assignment-background{
+  background-repeat: no-repeat;
+  background-image: url("/images/ar4.jpg");
+  background-size: cover;
+  height: 500px;
+}
+.project1-background{
+  background-repeat: no-repeat;
+  background-image: url("/images/project1back.png");
+  background-size: cover;
+  height: 500px;
+}
+.heading-2{
+  font-size: 50px;
+  color: black;
+}
+.bullet{
+  list-style-type: circle;
+}
+.bullet> li{
+  font-size: 18px;
+}
+.content{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  padding-left: 40px;
+}
