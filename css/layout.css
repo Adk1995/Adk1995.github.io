@@ -12,7 +12,11 @@
   padding-top: 0px;
   color: white;
 }
-
+.heading-intel{
+  padding-top: 0px;
+  color: white;
+  font-size: 80px;
+}
 .main-content{
   padding-left: 30px;
 }
@@ -26,6 +30,12 @@ p, ol{
   background-image: url("/images/ar4.jpg");
   background-size: cover;
   height: 500px;
+}
+.intel{
+  background-repeat: no-repeat;
+  background-image: url("/images/Intel\ True\ Vr/intel.jpg");
+  background-size: cover;
+  height: 600px;
 }
 .project1-background{
   background-repeat: no-repeat;
